@@ -106,6 +106,4 @@ Demo地址：https://github.com/wx-plugin/image-cropper-demo
 
 如果有什么好的建议欢迎提issues或者提pr
 
-## 进群 | 鼓励作者
 
-<img width="300" height="300" src="https://pubser-res.zhenai.com/other/temp/202103/19/19084532315057.png"/>   <img width="300" height="300" src="https://pubser-res.zhenai.com/other/temp/202006/27/15321042129368.jpg"/>
